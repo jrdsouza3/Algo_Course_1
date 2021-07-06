@@ -3,6 +3,7 @@ def main():
     x = input("enter 1st number")
     y = input("enter 2nd number")
     #x,y = 5678,1234
+    #get inputs for multi
 
     result = karatsuba(int(x),int(y))
 
