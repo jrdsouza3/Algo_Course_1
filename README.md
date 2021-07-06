@@ -1,4 +1,4 @@
 # Algo_Course_1
-Algorithms course projects
+Algorithms week 1
 Karatsuba multiplication
 
